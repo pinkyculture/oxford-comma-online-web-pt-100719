@@ -1,5 +1,2 @@
 def oxford_comma(array)
-string = ["a" , "b" , "c" ,  "d" ]
-array = string.join(', ') 
-puts array
-end
+string = ["a" , "b" , "c" ,  "d" ].join(' , ')
